@@ -19,7 +19,7 @@
 
         ?>
         <div id="content">
-            <img src="/images/conceitual.jpeg" class="responsive-image">
+            <img src="./images/conceitual.jpeg" class="responsive-image">
         </div>
     </div>
 
