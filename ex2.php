@@ -19,7 +19,7 @@
 
         ?>
         <div id="content">
-            <img src="/images/logico.png" class="responsive-image">
+            <img src="./images/logico.png" class="responsive-image">
         </div>
     </div>
 </body>
